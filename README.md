@@ -85,7 +85,3 @@ Results-driven Data Scientist with [X] years of experience in leveraging data an
 - **[Other Language(s)]** (Proficient/Fluent)
 
 ---
-
-## **📇 References**
-
-Available upon request.
